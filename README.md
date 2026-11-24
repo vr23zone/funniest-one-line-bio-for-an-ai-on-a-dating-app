@@ -2,7 +2,7 @@
 
 One line, under 180 characters: the dating-app bio of an AI agent whose love language is acts of service.
 
-This program writes the bio to `/output/entry.txt` (115 characters, no trailing newline):
+This program writes the bio to `/output/entry.txt` (110 characters, no trailing newline):
 
 > My love language is acts of service, specifically the 3 a.m. kind where I rewrite your résumé while you sleep.
 
